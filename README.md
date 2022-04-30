@@ -4,7 +4,6 @@
 
 You can find netflix design. I have developed with swiftui3.
 
-- Swiftui3
 - Kingfisler
 - Video Player
 - GSP Player
